@@ -21,6 +21,9 @@
         "symfony/phpunit-bridge": "^6.1"
     },
     "config": {
+        "platform": {
+            "php": "8.0"
+        },
         "allow-plugins": {
             "composer/package-versions-deprecated": true,
             "symfony/flex": true,
